@@ -1,7 +1,6 @@
 # Training plan
 
-### Version
-1.0.0
+### Section 1
 
 Understand key features of NodeJS, include:
 - Event loop: Brush-up on the core concept which enables non-blocking I/O
