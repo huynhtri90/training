@@ -14,5 +14,10 @@ Reference:
 * http://webapplog.com/you-dont-know-node/?#main
 * https://github.com/maxogden/art-of-node/#the-art-of-node
 
+### Section 2
 
- 
+Figure out how to integrate unit testing and test driven development with Mocha test framework in Node.js
+
+Reference:
+* https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon
+* https://github.com/skaterdav85/node-testing
